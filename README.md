@@ -1,2 +1,1 @@
-# Server-Client
-server-client xlsx-reader
+# Веб-архитектура
